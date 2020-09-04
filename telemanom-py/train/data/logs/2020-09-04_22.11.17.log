@@ -1,0 +1,4 @@
+2020-09-04 22:11:17,918 INFO 82 channels found for processing.
+2020-09-04 22:11:17,918 INFO Stream # 1: A-1
+2020-09-04 22:11:18,033 INFO Loading pre-trained model
+2020-09-04 22:11:34,867 INFO normalized prediction error: 0.01

@@ -1,0 +1,9 @@
+2020-09-04 22:32:53,058 INFO 82 channels found for processing.
+2020-09-04 22:32:53,058 INFO Stream # 1: A-1
+2020-09-04 22:32:53,213 INFO Loading pre-trained model
+2020-09-04 22:33:17,504 INFO normalized prediction error: 0.01
+2020-09-04 22:33:18,074 INFO 1 anomalies found
+2020-09-04 22:33:18,074 INFO anomaly sequences start/end indices: [(4730, 4869)]
+2020-09-04 22:33:18,074 INFO number of test values: 8380
+2020-09-04 22:33:18,074 INFO anomaly scores: [{'start_idx': 4480, 'end_idx': 4549, 'score': 3.2014430143775154}, {'start_idx': 4550, 'end_idx': 4619, 'score': 2.658856645307117}]
+

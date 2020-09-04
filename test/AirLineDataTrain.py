@@ -22,7 +22,7 @@ class Train:
     dataset = dataframe.values
     # 将整型变为float
     dataset = dataset.astype('float32')
-    # 归一化 在下一步会讲解
+    # 归一化
     scaler = MinMaxScaler(feature_range=(0, 1))
     dataset = scaler.fit_transform(dataset)
 

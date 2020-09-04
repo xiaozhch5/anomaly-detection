@@ -1,0 +1,23 @@
+2020-09-04 22:38:49,675 INFO 82 channels found for processing.
+2020-09-04 22:38:49,676 INFO Stream # 1: A-1
+2020-09-04 22:46:12,070 INFO normalized prediction error: 0.01
+2020-09-04 22:46:12,715 INFO 1 anomalies found
+2020-09-04 22:46:12,715 INFO anomaly sequences start/end indices: [(4730, 4869)]
+2020-09-04 22:46:12,715 INFO number of test values: 8380
+2020-09-04 22:46:12,715 INFO anomaly scores: [{'start_idx': 4480, 'end_idx': 4549, 'score': 3.4818206608281312}, {'start_idx': 4550, 'end_idx': 4619, 'score': 2.6836440717464543}]
+
+2020-09-04 22:46:12,719 INFO Stream # 2: A-2
+2020-09-04 22:56:49,500 INFO normalized prediction error: 0.09
+2020-09-04 22:56:50,115 INFO 3 anomalies found
+2020-09-04 22:56:50,116 INFO anomaly sequences start/end indices: [(979, 1303), (3050, 3119), (4450, 4659)]
+2020-09-04 22:56:50,116 INFO number of test values: 7654
+2020-09-04 22:56:50,116 INFO anomaly scores: [{'start_idx': 729, 'end_idx': 1053, 'score': 3.109315066854098}, {'start_idx': 2800, 'end_idx': 2869, 'score': 3.1269931205069237}, {'start_idx': 4200, 'end_idx': 4269, 'score': 3.3068331109863127}, {'start_idx': 4270, 'end_idx': 4339, 'score': 4.16298722621135}, {'start_idx': 4340, 'end_idx': 4409, 'score': 4.555897134316951}]
+
+2020-09-04 22:56:50,119 INFO Stream # 3: A-3
+2020-09-04 23:08:03,669 INFO normalized prediction error: 0.05
+2020-09-04 23:08:04,223 INFO 2 anomalies found
+2020-09-04 23:08:04,224 INFO anomaly sequences start/end indices: [(1092, 1505), (4590, 4799)]
+2020-09-04 23:08:04,224 INFO number of test values: 7945
+2020-09-04 23:08:04,224 INFO anomaly scores: [{'start_idx': 842, 'end_idx': 1255, 'score': 2.599633755157399}, {'start_idx': 4340, 'end_idx': 4409, 'score': 3.024922924019435}, {'start_idx': 4410, 'end_idx': 4479, 'score': 3.317555736600143}, {'start_idx': 4480, 'end_idx': 4549, 'score': 3.6876496559317773}]
+
+2020-09-04 23:08:04,227 INFO Stream # 4: A-4
